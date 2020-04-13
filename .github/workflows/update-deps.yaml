@@ -18,7 +18,8 @@ jobs:
           depot.outdated.main --update
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v2
-        commit-message: Update dependencies
-        title: Update clojure dependencies
-        assignees: jlesquembre
-        branch: update-clj-deps
+        with:
+          commit-message: Update dependencies
+          title: Update clojure dependencies
+          assignees: jlesquembre
+          branch: update-clj-deps
