@@ -24,9 +24,4 @@
     <developerConnection>scm:git:ssh://git@github.com/jlesquembre/dummy-clj.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
-
-  <build>
-    <sourceDirectory>src</sourceDirectory>
-  </build>
-
 </project>
