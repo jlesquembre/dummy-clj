@@ -1,3 +1,3 @@
 # dummy-clj
 
-A dummy project for testing purposes.
+A dummy project for testing purposes
