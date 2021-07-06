@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lafuente.dummy</groupId>
   <artifactId>dummy-clj</artifactId>
-  <version>2021.07.01-19.49.02</version>
+  <version>2021.07.05-19.49.02</version>
   <name>dummy-clj</name>
   <description>A dummy project for testing purposes</description>
   <url>https://github.com/jlesquembre/dummy-clj</url>
