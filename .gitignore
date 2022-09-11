@@ -9,3 +9,6 @@
 /.nrepl-port
 .hgignore
 .hg/
+.clj-kondo/
+.lsp/
+.direnv/
